@@ -28,7 +28,7 @@ namespace ZooAnimalsAssignment
             ///ternary operator
             string msg = hungerLevel >= 8 ? "Listen to the Lion: Roar!" : "Listen to the Monkey: Ooh ooh!";
             Console.WriteLine(msg);
-5
+
             ///prompt & input
             Console.WriteLine(@"Enter the current day of the week: 
 1 Monday
