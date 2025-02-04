@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Author: Somi Seol
+//Date: 4 February 2025
+using System;
 
 namespace ZooAnimalsAssignment
 {
